@@ -1,2 +1,3 @@
-i = 1
-print(i)
+while True:
+
+    print("Hellow world")
